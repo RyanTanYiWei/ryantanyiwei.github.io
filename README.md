@@ -1,6 +1,7 @@
 ### Contact
 Academic Email: ryan.yw.tan@u.nus.edu
 <br>Personal Email: ryantanyiwei@gmail.com
+<br>Circulum Vitae: [January 2022](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/blob/main/Resume%20(Ryan%20Tan%20Yi%20Wei)_21-1.pdf)
 
 ### Education
 
@@ -18,8 +19,8 @@ Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | J
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
 
 ### Technical Skills
-System Dynamics<br>&emsp; | Vensim<br>
-Networks<br>&emsp; | DepthmapX, SNA, igraph<br>
-Geographic Information Systems<br>&emsp; | QGIS<br>
-Programming Languages<br>&emsp; | R, Python, C, Git, Bash<br>
-Packages/Frameworks<br>&emsp; | ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS<br>
+System Dynamics<br>&emsp; | <i>Vensim</i><br>
+Networks<br>&emsp; | <i>DepthmapX, SNA, igraph</i><br>
+Geographic Information Systems<br>&emsp; | <i>QGIS</i><br>
+Programming Languages<br>&emsp; | <i>R, Python, C, Git, Bash</i><br>
+Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS</i><br>
