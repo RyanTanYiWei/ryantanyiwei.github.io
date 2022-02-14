@@ -1,6 +1,6 @@
 ## Contact
-- **Academic Email:** ryan.yw.tan@u.nus.edu
-- **Personal Email:** ryantanyiwei@gmail.com
+<br>**Academic Email:** ryan.yw.tan@u.nus.edu</br>
+<br>**Personal Email:** ryantanyiwei@gmail.com</br>
 
 ## Education
 National University of Singapore |  Aug 18 - Jun 22
