@@ -2,11 +2,11 @@
 - **Academic Email:** ryan.yw.tan@u.nus.edu
 - **Personal Email:** ryantanyiwei@gmail.com
 
-## Research Interests
-Resilience, Social-Ecological Systems, Network Analysis, Spatial Analysis, Policy/Planning Frameworks, Games 
-
 ## Education
 National University of Singapore |  Aug 18 - Jun 22
+
+## Research Interests
+Resilience, Social-Ecological Systems, Network Analysis, Spatial Analysis, Policy/Planning Frameworks, Games 
 
 ## Research Experience
 - International Centre for Integrated Mountain Development (ICIMOD)</br>&emsp;  Jan 21 - Present
