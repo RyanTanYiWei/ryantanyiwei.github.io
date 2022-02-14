@@ -1,7 +1,7 @@
 ### Contact
 Academic Email: ryan.yw.tan@u.nus.edu
 <br>Personal Email: ryantanyiwei@gmail.com
-<br>Circulum Vitae: [January 2022](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/blob/main/Resume%20(Ryan%20Tan%20Yi%20Wei)_21-1.pdf)
+<br>Circulum Vitae: [January 2022](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/Resume%20(Ryan%20Tan%20Yi%20Wei)_21-1.pdf)
 
 ### Education
 
