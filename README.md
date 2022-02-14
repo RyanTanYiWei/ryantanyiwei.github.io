@@ -22,5 +22,5 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
 Networks<br>&emsp; | <i>DepthmapX, SNA, igraph</i><br>
 Geographic Information Systems<br>&emsp; | <i>QGIS</i><br>
-Programming Languages<br>&emsp; | <i>R, Python, C, Git, Bash</i><br>
-Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS</i><br>
+Programming Languages<br>&emsp; | <i>R, Python, C, Bash</i><br>
+Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS, git</i><br>
