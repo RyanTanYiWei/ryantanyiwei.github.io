@@ -1,9 +1,10 @@
 ## Contact
-**Academic Email:** ryan.yw.tan@u.nus.edu
-<br>**Personal Email:** ryantanyiwei@gmail.com
+Academic Email: ryan.yw.tan@u.nus.edu
+<br>Personal Email: ryantanyiwei@gmail.com
 
 ## Education
-National University of Singapore |  Aug 18 - Jun 22
+
+B.Eng; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
 ## Research Interests
 Resilience, Social-Ecological Systems, Network Analysis, Spatial Analysis, Policy/Planning Frameworks, Games 
