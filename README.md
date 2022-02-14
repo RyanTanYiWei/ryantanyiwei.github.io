@@ -4,7 +4,8 @@ Academic Email: ryan.yw.tan@u.nus.edu
 
 ## Education
 
-B.Eng; National University of Singapore<br>&emsp; | Aug 18 - Jun 22
+B.Eng; National University of Singapore
+<br>&emsp; | Aug 18 - Jun 22
 
 ## Research Interests
 Resilience, Social-Ecological Systems, Network Analysis, Spatial Analysis, Policy/Planning Frameworks, Games 
