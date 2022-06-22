@@ -42,11 +42,11 @@ _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/conte
 Spatial Analysis in Among Us 
 <br>[spatial-logic-SP2022)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
 [design-thinking-SP2021)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
-[introduciton-NP2022-2021)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
-<br>&emsp; | Data Resources: [VGA](https://github.com/RyanTanYiWei/AmongUsVGA) [Spatial Networks](https://github.com/RyanTanYiWei/AmongUsJGraph)<br>
-<br>&emsp; | Student Sample: [1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) [2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) [3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)<br>
-<br>Hawker Centre, Popular Times and its Time Sensitive Functions [App](https://rtyw.shinyapps.io/hawkerpopulartimes/)
-<br>Topological Relationships of Spaces [App](https://appjgraph.herokuapp.com/)
+[introduction-NP2022-2021)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
+<br>&emsp; | Data Resources: [vga](https://github.com/RyanTanYiWei/AmongUsVGA) [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)<br>
+<br>&emsp; | Student Sample: [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)<br>
+<br>Hawker Centre, Popular Times and its Time Sensitive Functions [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
+<br>Topological Relationships of Spaces [app](https://appjgraph.herokuapp.com/)
 
 ### Other Things that Excite Me
 Moral Philosophy, Dota2, Calligraphy, Pen Spinning
