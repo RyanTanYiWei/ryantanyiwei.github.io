@@ -29,7 +29,7 @@ _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/conte
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei) 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173)
 <br>Spatial Networks in an Architectural Design Process _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Teaching/spatial_networks_architectural.pdf)
-<br>Street Network Analysis (CLCxNSCC) _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presnetations/CLC-Network-Modelling.pdf)
+<br>Street Network Analysis (CLCxNSCC) _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/CLC-Network-Modelling.pdf)
 
 ### Past Teaching Content
 Spatial Analysis in Among Us 
