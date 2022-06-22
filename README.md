@@ -4,7 +4,7 @@ Academic Email: ryan.yw.tan@u.nus.edu
 <br>Circulum Vitae: [January 2022](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Resume%20(Ryan%20Tan%20Yi%20Wei)_21-1.pdf)
 
 ### Education
-M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 ~<br>
+M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
 ### Research Interests
@@ -17,13 +17,6 @@ Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19
 (in collaboration with) Space Syntax (UCL)<br>&emsp; | Aug 21 - Feb 22<br>
 Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | Jul 20 - Jan 21<br>
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
-
-### Technical Skills
-System Dynamics<br>&emsp; | <i>Vensim</i><br>
-Networks<br>&emsp; | <i>SNA, igraph, Gephi</i><br>
-Spatial Analysis<br>&emsp; | <i>QGIS, DepthmapX</i><br>
-Programming Languages<br>&emsp; | <i>R, Python, C, Bash</i><br>
-Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS, git</i><br>
 
 ### Past Presentations (Conferences/Sharing)
 System Dynamics Conference 2022 (WIP) - Monitoring and Evaluation
@@ -40,13 +33,20 @@ _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=6706190808
 
 ### Past Teaching Content
 Spatial Analysis in Among Us 
-<br>_ [SP2022_SL](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
-[SP2021_DT](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
-[NP22/21_Intro](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
+<br>_ [SP2022-SL](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
+_ [SP2021-DT](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
+_ [NP22/21-Intro](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
 <br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA) _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)
-<br>&emsp; | Student Sample: _ [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) _ [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) _ [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)<br>
+<br>&emsp; | Student Sample: _ [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) _ [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) _ [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)
 <br>Hawker Centre, Popular Times and its Time Sensitive Functions _ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
 <br>Topological Relationships of Spaces _ [app](https://appjgraph.herokuapp.com/)
+
+### Technical Skills
+System Dynamics<br>&emsp; | <i>Vensim</i><br>
+Networks<br>&emsp; | <i>SNA, igraph, Gephi</i><br>
+Spatial Analysis<br>&emsp; | <i>QGIS, DepthmapX</i><br>
+Programming Languages<br>&emsp; | <i>R, Python, C, Bash</i><br>
+Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS, git</i><br>
 
 ### Other Things that Excite Me
 Moral Philosophy, Dota2, Calligraphy, Pen Spinning
