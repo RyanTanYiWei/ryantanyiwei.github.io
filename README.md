@@ -27,26 +27,26 @@ Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, st
 
 ### Past Presentations (Conferences/Sharing)
 System Dynamics Conference 2022 (WIP) - Monitoring and Evaluation
-<br>[paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_abs.pdf) 
+<br>_ [paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_abs.pdf) 
 _ [supp-materials](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_supp.pdf) 
 _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_slides.pdf)
 <br>System Dynamics Conference 2021 - Brahmaputra River Basin 
-<br>[paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_paper.pdf) 
-[slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_slides.pdf) 
-[video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei) 
-[additional-sharing](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173)
-<br>Spatial Networks in an Architectural Design Process [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Teaching/spatial_networks_architectural.pdf)
-<br>Street Network Analysis (CLCxNSCC) [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presnetations/CLC-Network-Modelling.pdf)
+<br>_ [paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_paper.pdf) 
+_ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_slides.pdf) 
+_ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei) 
+_ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173)
+<br>Spatial Networks in an Architectural Design Process _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Teaching/spatial_networks_architectural.pdf)
+<br>Street Network Analysis (CLCxNSCC) _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presnetations/CLC-Network-Modelling.pdf)
 
 ### Past Teaching Content
 Spatial Analysis in Among Us 
-<br>[spatial-logic-SP2022)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
-[design-thinking-SP2021)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
-[introduction-NP2022-2021)](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
-<br>&emsp; | Data Resources: [vga](https://github.com/RyanTanYiWei/AmongUsVGA) [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)<br>
-<br>&emsp; | Student Sample: [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)<br>
-<br>Hawker Centre, Popular Times and its Time Sensitive Functions [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
-<br>Topological Relationships of Spaces [app](https://appjgraph.herokuapp.com/)
+<br>_ [SP2022_SL](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
+[SP2021_DT](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
+[NP22/21_Intro](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
+<br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA) _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)
+<br>&emsp; | Student Sample: _ [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) _ [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) _ [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)<br>
+<br>Hawker Centre, Popular Times and its Time Sensitive Functions _ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
+<br>Topological Relationships of Spaces _ [app](https://appjgraph.herokuapp.com/)
 
 ### Other Things that Excite Me
 Moral Philosophy, Dota2, Calligraphy, Pen Spinning
