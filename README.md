@@ -1,17 +1,17 @@
 ### Contact
 Academic Email: RyanTanYiWei@student.tudelft.nl
 <br>Personal Email: ryantanyiwei@gmail.com
-<br>Circulum Vitae: [Sep 2022](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Resume%20(Ryan%20Tan%20Yi%20Wei)_Sep22.pdf)
+<br>Circulum Vitae: [Feb 2023](https://ryantanyiwei.github.io/content/Resume_Jan2023.pdf)
 
 ### Education
 M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
 ### Research Interests
-Systems: Resilience Theory, M&E Frameworks, Social-ecological Systems
-Space: Connectivity Graphs, Complex Buildings, Visibility Graph Analysis
+Resilience and adaptation, Social-ecological systems, M&E frameworks
 
 ### Research Assistantships
+Faculty of Technology, Policy and Management, Delft University of Technology<br>&emsp; | Dec 22 - Present<br>
 International Centre for Integrated Mountain Development (ICIMOD)<br>&emsp; | Jan 21 - Aug 22<br>
 Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19 - Aug 22<br>
 (in collaboration with) Space Syntax (UCL)<br>&emsp; | Aug 21 - Feb 22<br>
@@ -20,26 +20,36 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 
 ### Past Presentations (Conferences/Sharing)
 System Dynamics Conference 2022 (WIP) - Monitoring and Evaluation
-<br>_ [paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_abs.pdf) 
-_ [supp-materials](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_supp.pdf) 
-_ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC22_slides.pdf)
+<br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf) 
+_ [supp-materials](https://ryantanyiwei.github.io/content/Presentations/ISDC22_supp.pdf) 
+_ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf)
 <br>System Dynamics Conference 2021 - Brahmaputra River Basin 
-<br>_ [paper](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_paper.pdf) 
-_ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/ISDC21_slides.pdf) 
+<br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC21_paper.pdf) 
+_ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf) 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei) 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173)
-<br>Spatial Networks in an Architectural Design Process _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Teaching/spatial_networks_architectural.pdf)
-<br>Street Network Analysis (CLCxNSCC) _ [slides](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/Presentations/CLC-Network-Modelling.pdf)
+<br>Spatial Networks in an Architectural Design Process 
+_ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_architectural.pdf)
+<br>Street Network Analysis (CLCxNSCC) 
+_ [slides](https://ryantanyiwei.github.io/content/Presentations/CLC-Network-Modelling.pdf)
+
+### Policy Modelling and Analysis
+Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf) 
+Accessibility in The Hague (Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html) 
+Nursing Shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf) 
+Sustainable Mobility (Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf) 
 
 ### Past Teaching Content
 Spatial Analysis in Among Us 
-<br>_ [SP2022-SL](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP22-SL.pdf) 
-_ [SP2021-DT](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/SP21-DT.pdf) 
-_ [NP22/21-Intro](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/NP21_20.pdf) 
-<br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA) _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)
-<br>&emsp; | Student Sample: _ [sample-1](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student1.pdf) _ [sample-2](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student2.pdf) _ [sample-3](https://github.com/RyanTanYiWei/ryantanyiwei.github.io/raw/main/content/AmongUs/student3.pdf)
-<br>Hawker Centre, Popular Times and its Time Sensitive Functions _ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
-<br>Topological Relationships of Spaces _ [app](https://appjgraph.herokuapp.com/)
+<br>_ [SP2022-SL](https://ryantanyiwei.github.io/content/AmongUs/SP22-SL.pdf) 
+_ [SP2021-DT](https://ryantanyiwei.github.io/content/AmongUs/SP21-DT.pdf) 
+_ [NP22/21-Intro](https://ryantanyiwei.github.io/content/AmongUs/NP21_20.pdf) 
+<br>&emsp; | Data Resources: _ [vga](https://AmongUsVGA) _ [spatial-networks](https://AmongUsJGraph)
+<br>&emsp; | Student Sample: _ [sample-1](https://ryantanyiwei.github.io/content/AmongUs/student1.pdf) _ [sample-2](https://ryantanyiwei.github.io/content/AmongUs/student2.pdf) _ [sample-3](https://ryantanyiwei.github.io/content/AmongUs/student3.pdf)
+<br>Hawker Centre, Popular Times and its Time Sensitive Functions 
+_ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
+<br>Topological Relationships of Spaces 
+_ [app](https://appjgraph.herokuapp.com/)
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
@@ -49,4 +59,4 @@ Programming Languages<br>&emsp; | <i>R, Python, C, Bash</i><br>
 Packages/Frameworks<br>&emsp; | <i>ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny, pandas, numpy, sklearn, pytorch, opencv, ROS, git</i><br>
 
 ### Other Things that Excite Me
-Moral Philosophy, Dota2, Calligraphy, Pen Spinning
+Moral Philosophy, Dota2, Calligraphy (Italics), Pen Spinning
