@@ -18,6 +18,12 @@ Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19
 Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | Jul 20 - Jan 21<br>
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
 
+### Policy Modelling and Analysis
+Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf) 
+<br>Accessibility in The Hague (Spatial Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html) 
+<br>Nursing Shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf) 
+<br>Sustainable Mobility (Spatial Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf) 
+
 ### Past Presentations (Conferences/Sharing)
 System Dynamics Conference 2022 (WIP) - Monitoring and Evaluation
 <br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf) 
@@ -33,12 +39,6 @@ _ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_arch
 <br>Street Network Analysis (CLCxNSCC) 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/CLC-Network-Modelling.pdf)
 
-### Policy Modelling and Analysis
-Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf) 
-Accessibility in The Hague (Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html) 
-Nursing Shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf) 
-Sustainable Mobility (Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf) 
-
 ### Past Teaching Content
 Spatial Analysis in Among Us 
 <br>_ [SP2022-SL](https://ryantanyiwei.github.io/content/AmongUs/SP22-SL.pdf) 
@@ -46,10 +46,8 @@ _ [SP2021-DT](https://ryantanyiwei.github.io/content/AmongUs/SP21-DT.pdf)
 _ [NP22/21-Intro](https://ryantanyiwei.github.io/content/AmongUs/NP21_20.pdf) 
 <br>&emsp; | Data Resources: _ [vga](https://AmongUsVGA) _ [spatial-networks](https://AmongUsJGraph)
 <br>&emsp; | Student Sample: _ [sample-1](https://ryantanyiwei.github.io/content/AmongUs/student1.pdf) _ [sample-2](https://ryantanyiwei.github.io/content/AmongUs/student2.pdf) _ [sample-3](https://ryantanyiwei.github.io/content/AmongUs/student3.pdf)
-<br>Hawker Centre, Popular Times and its Time Sensitive Functions 
-_ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
-<br>Topological Relationships of Spaces 
-_ [app](https://appjgraph.herokuapp.com/)
+<br>Hawker Centre, Popular Times and its Time Sensitive Functions <br>_ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/)
+<br>Topological Relationships of Spaces <br>_ [app](https://appjgraph.herokuapp.com/)
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
