@@ -1,7 +1,7 @@
 ### Contact
 Academic Email: RyanTanYiWei@student.tudelft.nl
 <br>Personal Email: ryantanyiwei@gmail.com
-<br>Circulum Vitae: [Feb 2023](https://ryantanyiwei.github.io/content/Resume_Jan2023.pdf)
+<br>Circulum Vitae: [Feb 2023](https://ryantanyiwei.github.io/content/Resume_Jan2023.pdf){:target="_blank"}
 
 ### Education
 M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
@@ -41,15 +41,18 @@ _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=6706190808
 
 ### Past Teaching Content
 Spatial Analysis in Among Us 
+<br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA) _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)
+<br>&emsp; | Student Sample: _ [sample-1](https://ryantanyiwei.github.io/content/AmongUs/student1.pdf) _ [sample-2](https://ryantanyiwei.github.io/content/AmongUs/student2.pdf) _ [sample-3](https://ryantanyiwei.github.io/content/AmongUs/student3.pdf)
 <br>_ [SP2022-SL](https://ryantanyiwei.github.io/content/AmongUs/SP22-SL.pdf) 
 _ [SP2021-DT](https://ryantanyiwei.github.io/content/AmongUs/SP21-DT.pdf) 
 _ [NP22/21-Intro](https://ryantanyiwei.github.io/content/AmongUs/NP21_20.pdf) 
-<br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA) _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph)
-<br>&emsp; | Student Sample: _ [sample-1](https://ryantanyiwei.github.io/content/AmongUs/student1.pdf) _ [sample-2](https://ryantanyiwei.github.io/content/AmongUs/student2.pdf) _ [sample-3](https://ryantanyiwei.github.io/content/AmongUs/student3.pdf)
 <br>Hawker Centre, Popular Times and its Time Sensitive Functions <br>_ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/) 
 _ [code](https://github.com/RyanTanYiWei/HawkerShiny)
 <br>Topological Relationships of Spaces <br>_ [app](https://appjgraph.herokuapp.com/)
 _ [code](https://github.com/RyanTanYiWei/AppJGraph)
+
+### Community Involvement
+System Dynamics Society Member (Chapters: Students, ASEAN, Benelux)
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
