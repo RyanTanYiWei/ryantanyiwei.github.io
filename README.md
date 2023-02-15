@@ -19,7 +19,6 @@ Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | J
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
 
 ### Policy Modelling & Analyses
-<img height = "30" src=https://github.com/RyanTanYiWei/AmongUsJGraph/blob/main/External%20Diagrams/jpeg%20for%20readme/3a1%20default-jgraph_FixLights.jpg/>
 Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
 <br>Accessibility in The Hague (Spatial Clustering Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 <br>Nursing Shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
@@ -53,8 +52,8 @@ _ [code](https://github.com/RyanTanYiWei/HawkerShiny){:target="_blank"}
 _ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
 
 ### Community Involvement
-System Dynamics Society Member<br>&emsp; |  Chapters: Students, ASEAN, Benelux)<br>
-<br>&emsp; |  Papers: 2021, 2022, 2023<br>
+System Dynamics Society Member<br>&emsp; |  Chapters: Student, ASEAN, Benelux
+<br>&emsp; |  Paper Contribution: 2021, 2022, 2023<br>
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
