@@ -21,32 +21,32 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 ### Selected Coursework - Reports, Essays and Analyses
 <!---Student Housing Market in Amsterdam - [report](https://ryantanyiwei.github.io/content/Reports/Housing.pdf){:target="_blank"}<br> --->
 Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
-<br>Review of Kuala Lumpur–Singapore high-speed rail (Political Decision Making) _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
+<br>Review of a bilateral development project (Political Decision Making) _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
 <br>Accessibility in The Hague (Spatial Clustering Analysis) _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
-<br>Nursing Shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
+<br>Nursing shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
 <br>Sustainable Mobility (Spatial Clustering Analysis) _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
 
 ### Papers and Presentations
 <!---International System Dynamics Conference 2023 - Resilience Markers in Myanmmar
 <br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC23_abs.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf){:target="_blank"}<br>-->
-_International System Dynamics Conference 2022_// Monitoring and Evaluation
+_International System Dynamics Conference 2022_ // Monitoring and Evaluation
 <br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf){:target="_blank"}
 _ [supp-materials](https://ryantanyiwei.github.io/content/Presentations/ISDC22_supp.pdf){:target="_blank"} 
-<br>_International System Dynamics Conference 2021_// Brahmaputra River Basin 
+<br>_International System Dynamics Conference 2021_ // Brahmaputra River Basin 
 <br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC21_paper.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf){:target="_blank"} 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei){:target="_blank"} 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173){:target="_blank"}
-<br>_Evidence-based Design_// Spatial Networks in the design of a Building Complex
+<br>_Evidence-based Design_ // Spatial Networks in Building Complexes
 <br>_ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_architectural.pdf){:target="_blank"}
-<br>_Evidence-based Design_// Street Network Analysis to value-add Planning and Policies
+<br>_Evidence-based Design_ // Street Network Analysis for Planning and Policies
 <br>_ [slides](https://ryantanyiwei.github.io/content/Presentations/CLC-Network-Modelling.pdf){:target="_blank"}
 
 
 ### Past Teaching Content
-_Evidence-based Design_; Spatial Analysis in *Among Us*
+_Evidence-based Design_; Spatial Analysis in Among Us
 <br>&emsp; | Data Resources: _ [vga](https://github.com/RyanTanYiWei/AmongUsVGA){:target="_blank"} _ [spatial-networks](https://github.com/RyanTanYiWei/AmongUsJGraph){:target="_blank"}
 <br>&emsp; | Student Sample: _ [sample-1](https://ryantanyiwei.github.io/content/AmongUs/student1.pdf){:target="_blank"} _ [sample-2](https://ryantanyiwei.github.io/content/AmongUs/student2.pdf){:target="_blank"} _ [sample-3](https://ryantanyiwei.github.io/content/AmongUs/student3.pdf){:target="_blank"}
 <br>_ [SP2022-SL](https://ryantanyiwei.github.io/content/AmongUs/SP22-SL.pdf){:target="_blank"} 
