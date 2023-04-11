@@ -59,8 +59,8 @@ _ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
 
 ### Community Involvement
 <!---Facilitator at the European Young Engineers (EYE) Conference 2023
-<br>&emsp; |  Contribution: Facilitator Workshop/Serious Games --->
-<br>System Dynamics Society Member
+<br>&emsp; |  Contribution: Facilitator Workshop/Serious Games <br>--->
+System Dynamics Society Member
 <br>&emsp; |  Chapters: Student, ASEAN, Benelux
 <br>&emsp; |  Paper Contribution: 2021, 2022, 2023<br>
 
