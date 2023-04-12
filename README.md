@@ -20,11 +20,16 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 
 ### Selected Coursework - Reports, Essays and Analyses
 <!---Student Housing Market in Amsterdam - [report](https://ryantanyiwei.github.io/content/Reports/Housing.pdf){:target="_blank"}<br> --->
-Global Semiconductor Industry (Network Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
-<br>Review of a bilateral development project (Political Decision Making) _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
-<br>Accessibility in The Hague (Spatial Clustering Analysis) _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
-<br>Nursing shortage (Multi-Actor Analysis) _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
-<br>Sustainable Mobility (Spatial Clustering Analysis) _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
+Global semiconductor industry 
+<br>&emsp; |  _Network analysis of the global supply chain_ _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
+<br>Review of a bilateral development project 
+<br>&emsp; |  _Essay on political decision making and negotiation_ _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
+<br>Accessibility in The Hague 
+<br>&emsp; |  _Analysis using spatial clustering analysis_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
+<br>Nursing shortage 
+<br>&emsp; |  _Analysis of a multi-actor system_ _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
+<br>Sustainable Mobility 
+<br>&emsp; |  _Analysis using spatial clustering analysis_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
 
 ### Papers and Presentations
 <!---International System Dynamics Conference 2023 - Resilience Markers in Myanmmar
