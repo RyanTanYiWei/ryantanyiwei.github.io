@@ -27,7 +27,8 @@ Global semiconductor industry
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
 <br>Accessibility in The Hague 
-<br>&emsp; |  _Analysis using spatial clustering_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
+<br>&emsp; |  _Analysis using spatial clustering_ 
+<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 <br>Nursing shortage 
 <br>&emsp; |  _Analysis of a multi-actor system_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
@@ -65,10 +66,12 @@ _Evidence-based Design_; Spatial Analysis in Among Us
 <br>&emsp; |  _ [SP2022-SL](https://ryantanyiwei.github.io/content/AmongUs/SP22-SL.pdf){:target="_blank"} 
 _ [SP2021-DT](https://ryantanyiwei.github.io/content/AmongUs/SP21-DT.pdf){:target="_blank"} 
 _ [NP22/21-Intro](https://ryantanyiwei.github.io/content/AmongUs/NP21_20.pdf){:target="_blank"} 
-<br>_Socio-spatial interactions_; Hawker Centres and Popular Times <br>_ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/){:target="_blank"} 
-<br>&emsp; |  _ [code](https://github.com/RyanTanYiWei/HawkerShiny){:target="_blank"}
-<br>_Visualizing movements_; Topological relationships of spaces<br>_ [app](https://rtyw.shinyapps.io/jgraph/){:target="_blank"}
-<br>&emsp; |  _ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
+<br>_Socio-spatial interactions_; Hawker Centres and Popular Times 
+<br>&emsp; |  _ [app](https://rtyw.shinyapps.io/hawkerpopulartimes/){:target="_blank"} 
+_ [code](https://github.com/RyanTanYiWei/HawkerShiny){:target="_blank"}
+<br>_Visualizing movements_; Topological relationships of spaces
+<br>&emsp; |  _ [app](https://rtyw.shinyapps.io/jgraph/){:target="_blank"}
+_ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
 
 ### Community Involvement
 <!---Facilitator at the European Young Engineers (EYE) Conference 2023
