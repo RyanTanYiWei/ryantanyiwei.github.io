@@ -35,18 +35,22 @@ Global semiconductor industry
 <!---International System Dynamics Conference 2023 - Resilience Markers in Myanmmar
 <br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC23_abs.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf){:target="_blank"}<br>-->
-_International System Dynamics Conference 2022_ // Monitoring and Evaluation
-<br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
+International System Dynamics Conference 2022 
+<br>&emsp; |  _Resilience Markers for Monitoring and Evaluation_ 
+_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf){:target="_blank"}
 _ [supp-materials](https://ryantanyiwei.github.io/content/Presentations/ISDC22_supp.pdf){:target="_blank"} 
-<br>_International System Dynamics Conference 2021_ // Brahmaputra River Basin 
-<br>_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC21_paper.pdf){:target="_blank"} 
+<br>International System Dynamics Conference 2021
+<br>&emsp; |  _Brahmaputra River Basin_
+_ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC21_paper.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf){:target="_blank"} 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei){:target="_blank"} 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173){:target="_blank"}
-<br>_Evidence-based Design_ // Spatial Networks in Building Complexes
+<br>Evidence-based Design Presentation
+<br>&emsp; |  _Spatial Networks in Building Complexes_
 <br>_ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_architectural.pdf){:target="_blank"}
-<br>_Evidence-based Design_ // Street Network Analysis for Planning and Policies
+<br>Evidence-based Design Presentation
+<br>&emsp; |  _Street Network Analysis for Planning and Policies_
 <br>_ [slides](https://ryantanyiwei.github.io/content/Presentations/CLC-Network-Modelling.pdf){:target="_blank"}
 
 
