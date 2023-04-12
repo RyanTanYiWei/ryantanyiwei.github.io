@@ -25,11 +25,11 @@ Global semiconductor industry
 <br>Review of a bilateral development project 
 <br>&emsp; |  _Essay on political decision making and negotiation_ _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
 <br>Accessibility in The Hague 
-<br>&emsp; |  _Analysis using spatial clustering analysis_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
+<br>&emsp; |  _Analysis using spatial clustering_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 <br>Nursing shortage 
 <br>&emsp; |  _Analysis of a multi-actor system_ _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
 <br>Sustainable Mobility 
-<br>&emsp; |  _Analysis using spatial clustering analysis_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
+<br>&emsp; |  _Analysis using spatial clustering_ _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
 
 ### Papers and Presentations
 <!---International System Dynamics Conference 2023 - Resilience Markers in Myanmmar
