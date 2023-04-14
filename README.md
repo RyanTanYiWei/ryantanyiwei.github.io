@@ -19,8 +19,10 @@ Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | J
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
 
 ### Selected Coursework - Reports, Essays and Analyses
-<!---Student Housing Market in Amsterdam - [report](https://ryantanyiwei.github.io/content/Reports/Housing.pdf){:target="_blank"}<br> --->
-Global semiconductor industry 
+Student Housing Market in Amsterdam
+<br>&emsp; |  _System dynamics analysis of the student housing market_ 
+<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/Housing.pdf){:target="_blank"}
+<br>Global semiconductor industry 
 <br>&emsp; |  _Network analysis of the global supply chain_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
 <br>Review of a bilateral development project 
