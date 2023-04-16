@@ -8,7 +8,7 @@ M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; |
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
 ### Research Interests
-Resilience and adaptation, Social-ecological systems, M&E frameworks
+Resilience and adaptation, Policy legacies and path dependencies, M&E frameworks
 
 ### Research Assistantships
 Faculty of Technology, Policy and Management, Delft University of Technology (TU Delft)<br>&emsp; | Dec 22 - Present<br>
@@ -19,24 +19,25 @@ Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | J
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
 
 ### Selected Coursework - Reports, Essays and Analyses
-Student Housing Market in Amsterdam
-<br>&emsp; |  _System dynamics analysis of the student housing market_ 
+Analysis of the student housing market in Amsterdam
+<br>&emsp; |  _System dynamics modelling of the student housing market_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
-<br>Global semiconductor industry 
-<br>&emsp; |  _Network analysis of the global supply chain_ 
+<br>Actor and strategy analysis in the Global semiconductor industry 
+<br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
 <br>Review of a bilateral development project 
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
-<br>Accessibility in The Hague 
-<br>&emsp; |  _Analysis using spatial clustering_ 
-<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
-<br>Nursing shortage 
-<br>&emsp; |  _Analysis of a multi-actor system_ 
+<br>Comparative case study of urban mobility in 5 cities
+<br>&emsp; |  _Spatial data analysis of city typologies and commuting behaviour_ 
+<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
+<br>Multi-actor analysis of a nursing shortage 
+<br>&emsp; |  _Qualitative techniques for a multi-actor system_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
-<br>Sustainable Mobility 
-<br>&emsp; |  _Analysis using spatial clustering_ 
-<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
+<br>Accessibility study of The Hague 
+<br>&emsp; |  _Spatial data analysis involving clustering_ 
+<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
+
 
 ### Papers and Presentations
 <!---International System Dynamics Conference 2023 - Resilience Markers in Myanmmar
