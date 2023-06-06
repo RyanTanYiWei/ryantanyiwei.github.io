@@ -43,7 +43,7 @@ Analysis of the student housing market in Amsterdam
 ### Papers and Presentations
 International System Dynamics Conference 2023 
 <br>&emsp; |  _Integration of Resilience Markers framework into Socio-Ecological System: Case Study of Agriculture in Dadeldhura, Nepal_
-<br>_ _(paper accepted)_
+<br>&emsp; |  _(paper accepted)_
 <br>International System Dynamics Conference 2022 
 <br>&emsp; |  _Integrating resilience into Monitoring and Evaluation of climate and development practices in Hindu-Kush Himalaya_
 <br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
@@ -79,11 +79,13 @@ _ [code](https://github.com/RyanTanYiWei/HawkerShiny){:target="_blank"}
 _ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
 
 ### Community Involvement
-<!---Facilitator at the European Young Engineers (EYE) Conference 2023
-<br>&emsp; |  Contribution: Facilitator Workshop/Serious Games <br>--->
-System Dynamics Society Member
+System Dynamics Society
 <br>&emsp; |  Chapters: Student, ASEAN, Benelux
 <br>&emsp; |  Paper Contribution: 2021, 2022, 2023<br>
+TU Delft's Engineering and Policy Analysis Student Chapter 
+<br>&emsp; |  Contribution: Led the organization of a Business Tour to Berlin <br>
+European Young Engineers (EYE) Conference 2023
+<br>&emsp; |  Contribution: Facilitator for Workshop/Serious Game <br>
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
