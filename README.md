@@ -29,6 +29,9 @@ Analysis of the student housing market in Amsterdam
 <br>Review of the Singapore-KL High Speed Rail
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
+<br>Ethical analysis of the NORI Environmental Impact Assessments
+<br>&emsp; |  _Report on the content and process of an EIA_ 
+<br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
 <br>Comparative case study of urban mobility in 5 cities
 <br>&emsp; |  _Spatial data analysis of city typologies and commuting behaviour_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
