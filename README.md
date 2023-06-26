@@ -32,6 +32,9 @@ Analysis of the student housing market in Amsterdam
 <br>Ethical analysis of the NORI Environmental Impact Assessments
 <br>&emsp; |  _Report on the content and process of an EIA_ 
 <br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
+<br>Literature review on equitable climate change adaptation processes
+<br>&emsp; |  _Analysis of structrual barriers in environmental governance_ 
+<br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Reports/samplelitreview.pdf){:target="_blank"}
 <br>Comparative case study of urban mobility in 5 cities
 <br>&emsp; |  _Spatial data analysis of city typologies and commuting behaviour_ 
 <br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
@@ -43,7 +46,7 @@ Analysis of the student housing market in Amsterdam
 <br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 
 
-### Papers and Presentations
+### Papers, Presentations and Articles
 International System Dynamics Conference 2023 
 <br>&emsp; |  _Integration of Resilience Markers framework into Socio-Ecological System: Case Study of Agriculture in Dadeldhura, Nepal_
 <br>&emsp; |  _(paper accepted)_
@@ -59,6 +62,9 @@ Himalayan social-hydrological system_
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf){:target="_blank"} 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei){:target="_blank"} 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173){:target="_blank"}
+<br>Opinion Piece on Water Consumption in Non-Domestic Sectors
+<br>&emsp; |  _Making the most out of every drop of Singapore's water_
+<br>&emsp; |  _ [op-ed](https://ryantanyiwei.github.io/content/Presentations/oped.pdf){:target="_blank"} 
 <br>Evidence-based Design Presentation
 <br>&emsp; |  _Spatial Networks in Building Complexes_
 <br>&emsp; |  _ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_architectural.pdf){:target="_blank"}
