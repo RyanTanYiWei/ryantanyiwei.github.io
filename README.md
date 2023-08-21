@@ -22,7 +22,7 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 ### Papers, Presentations and Articles
 International System Dynamics Conference 2023 
 <br>&emsp; |  _Integration of Resilience Markers framework into Socio-Ecological System: Case Study of Agriculture in Dadeldhura, Nepal_
-<br>&emsp; |  _(paper accepted)_
+<br>&emsp; |  _ [abstract](https://ryantanyiwei.github.io/content/Presentations/ISDC23_abstract.txt){:target="_blank"} 
 <br>International System Dynamics Conference 2022 
 <br>&emsp; |  _Integrating resilience into Monitoring and Evaluation of climate and development practices in Hindu-Kush Himalaya_
 <br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
@@ -31,7 +31,7 @@ _ [supp-materials](https://ryantanyiwei.github.io/content/Presentations/ISDC22_s
 <br>International System Dynamics Conference 2021
 <br>&emsp; |  _System dynamics across three scales in the Brahmaputra River Basin- Exploring a
 Himalayan social-hydrological system_
-<br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC21_paper.pdf){:target="_blank"} 
+<br>&emsp; |  _ [abstract](https://ryantanyiwei.github.io/content/Presentations/ISDC21_abstract.txt){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf){:target="_blank"} 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei){:target="_blank"} 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173){:target="_blank"}
