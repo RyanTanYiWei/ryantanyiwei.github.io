@@ -48,22 +48,30 @@ _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=6706190808
 
 
 ### Selected Coursework - Reports, Essays and Analyses
-Analysis of the student housing market in Amsterdam
-<br>&emsp; |  _System dynamics modelling of the student housing market_ 
-<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
- _ [materials](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
-<br>Actor and strategy analysis in the global semiconductor industry 
+
+<!---Policy Reports--->
+<!---Academic Writing--->
+<!---Informal Pieces--->
+<!---Technical Writing--->
+Actor and strategy analysis of the global semiconductor industry 
 <br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
-<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
+<br>&emsp; |  _ [policy report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
+<br>Ethical analysis of the NORI's Environmental Impact Assessments for deep sea mining
+<br>&emsp; |  _Critique of the content and processes of an EIA_ 
+<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
+<br>Analysis of the student housing market in Amsterdam
+<br>&emsp; |  _System dynamics modelling of the student housing market_ 
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
+ _ [materials](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
+<br>Interview Article on Coastal Governance in Singapore
+<br>&emsp; |  _Assessment of the Singaporean multi-agency governance system_ 
+<br>&emsp; |  _ [new article](https://ryantanyiwei.github.io/InterviewCoast/){:target="_blank"}
 <br>Review of the Singapore-KL High Speed Rail
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
-<br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
-<br>Ethical analysis of the NORI Environmental Impact Assessments
-<br>&emsp; |  _Report on the content and process of an EIA_ 
-<br>&emsp; |  _ [essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
+<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
 <br>Literature review on equitable climate change adaptation processes
 <br>&emsp; |  _Analysis of structrual barriers in environmental governance_ 
-<br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Reports/samplelitreview.pdf){:target="_blank"}
+<br>&emsp; |  _ [literature review](https://ryantanyiwei.github.io/content/Reports/samplelitreview.pdf){:target="_blank"}
 <!---
 <br>Comparative case study of urban mobility in 5 cities
 <br>&emsp; |  _Spatial data analysis of city typologies and commuting behaviour_ 
@@ -71,7 +79,7 @@ Analysis of the student housing market in Amsterdam
 --->
 <br>Multi-actor analysis of a nursing shortage 
 <br>&emsp; |  _Qualitative techniques for a multi-actor system_ 
-<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
 <br>Accessibility study of The Hague 
 <br>&emsp; |  _Spatial data analysis involving clustering_ 
 <br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
