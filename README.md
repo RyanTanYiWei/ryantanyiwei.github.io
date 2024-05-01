@@ -7,8 +7,8 @@ Academic Email: RyanTanYiWei@student.tudelft.nl
 M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
-### Summary
-With great power comes great responsibility; models wield significant power to improve our lives through decision making, but one must be cautious in how they are used.
+### Bio
+With great power comes great responsibility; models possess the potential to improve our lives, yet their utilization demands careful consideration.
 
 ### Research Assistantships
 Faculty of Technology, Policy and Management, Delft University of Technology (TU Delft)<br>&emsp; | Dec 22 - Present<br>
@@ -23,7 +23,7 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 <!---...--->
 182nd Dies Natalis 2024
 <br>&emsp; |  _Mapping the system underlying inertia in the (storm)water transition in cities in the Netherlands - through a financing perspective_
-<br>_ [abstract](https://ryantanyiwei.github.io/content/Presentations/DN_abstract.pdf){:target="_blank"} 
+<br>&emsp; |  _  [abstract](https://ryantanyiwei.github.io/content/Presentations/DN_abstract.txt){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/DN_slides.pdf){:target="_blank"}
 <!---...--->
 <br>International System Dynamics Conference 2023 
@@ -57,11 +57,10 @@ _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=6706190808
 
 
 ### Selected Coursework - Reports, Essays and Analyses
-
-#### Quantitative Work - Simulation, Data Science
+#### Quantitative Work - Simulation, Data Analysis
 <!---Simulations--->
 Decision Support for Managing Flood Risks in Gelderland's Ijssel river
-<br>&emsp; |  _Exploratory Modelling Approach within a broader political context _ 
+<br>&emsp; |  _Exploratory Modelling Approach within a broader political context_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/DecisionSupport.pdf){:target="_blank"}
  _ [repository](https://github.com/alex-dietz/model-based-decision-making){:target="_blank"}
 <br>Analysis of the student housing market in Amsterdam
@@ -81,15 +80,15 @@ Decision Support for Managing Flood Risks in Gelderland's Ijssel river
 
 #### Quantitative Work - Ethics, Governance, Systems Mapping
 <!---Qualitative Work--->
-<br>Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
+Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
 <br>&emsp; |  _Ethical analysis of trade-offs and stakeholder involvement processes_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/EthicsOmo.pdf){:target="_blank"}
 <br>Ethics of the NORI's Environmental Impact Assessments for deep sea mining
-<br>&emsp; |  _ Ethical Analysis of the content and processes of an EIA_ 
+<br>&emsp; |  _Ethical Analysis of the content and processes of an EIA_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
 <br>Interview Article on Coastal Governance in Singapore
 <br>&emsp; |  _Assessment of the Singaporean multi-agency governance system_ 
-<br>&emsp; |  _ [new article](https://ryantanyiwei.github.io/InterviewCoast/){:target="_blank"}
+<br>&emsp; |  _ [interview article](https://ryantanyiwei.github.io/InterviewCoast/){:target="_blank"}
 <br>Review of the Singapore-KL High Speed Rail
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
@@ -112,14 +111,16 @@ _ [code](https://github.com/RyanTanYiWei/HawkerShiny){:target="_blank"}
 <br>&emsp; |  _ [app](https://rtyw.shinyapps.io/jgraph/){:target="_blank"}
 _ [code](https://github.com/RyanTanYiWei/AppJGraph){:target="_blank"}
 
+
 ### Community Involvement
 System Dynamics Society
 <br>&emsp; |  Chapters: Student, ASEAN, Benelux
-<br>&emsp; |  Paper Contribution: 2021, 2022, 2023<br>
+<br>&emsp; |  Paper and Review Contribution: 2021-2024<br>
 TU Delft's Engineering and Policy Analysis Student Chapter 
 <br>&emsp; |  Contribution: Led the organization of a Business Tour to Berlin <br>
 European Young Engineers (EYE) Conference 2023
 <br>&emsp; |  Contribution: Facilitator for Workshop/Serious Game <br>
+
 
 ### Technical Skills
 System Dynamics<br>&emsp; | <i>Vensim</i><br>
@@ -127,6 +128,7 @@ Networks<br>&emsp; | <i>SNA, igraph, Gephi</i><br>
 Spatial Analysis<br>&emsp; | <i>QGIS, DepthmapX</i><br>
 Programming Languages<br>&emsp; | <i>Python, R, C, Bash</i><br>
 Packages/Frameworks<br>&emsp; | <i>geopandas, pandas, mesa, numpy, sklearn, pytorch, networkx, ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny,  opencv, ROS, git</i><br>
+
 
 ### Other Things that Excite Me
 Moral Philosophy, Calligraphy (Italics), Pen Spinning, Dota2
