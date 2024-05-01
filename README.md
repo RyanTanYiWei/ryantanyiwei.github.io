@@ -1,14 +1,14 @@
 ### Contact
 Academic Email: RyanTanYiWei@student.tudelft.nl
 <br>Personal Email: ryantanyiwei@gmail.com
-<br>Circulum Vitae: [Mar 2023](https://ryantanyiwei.github.io/content/Resume_Mar2023.pdf){:target="_blank"}
+<br>Circulum Vitae: [Mar 2023](https://ryantanyiwei.github.io/content/Resume_Apr2024.pdf){:target="_blank"}
 
 ### Education
 M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
-### Research Interests
-Disaster Resilience, Monitoring and Evaluation Frameworks
+### Summary
+With great power comes great responsibility; models wield significant power to improve our lives through decision making, but one must be cautious in how they are used.
 
 ### Research Assistantships
 Faculty of Technology, Policy and Management, Delft University of Technology (TU Delft)<br>&emsp; | Dec 22 - Present<br>
@@ -20,69 +20,82 @@ Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&ems
 
 
 ### Papers, Presentations and Articles
-International System Dynamics Conference 2023 
+<!---...--->
+182nd Dies Natalis 2024
+<br>&emsp; |  _Mapping the system underlying inertia in the (storm)water transition in cities in the Netherlands - through a financing perspective_
+<br>_ [abstract](https://ryantanyiwei.github.io/content/Presentations/DN_abstract.pdf){:target="_blank"} 
+_ [slides](https://ryantanyiwei.github.io/content/Presentations/DN_slides.pdf){:target="_blank"}
+<!---...--->
+<br>International System Dynamics Conference 2023 
 <br>&emsp; |  _Integration of Resilience Markers framework into Socio-Ecological System: Case Study of Agriculture in Dadeldhura, Nepal_
 <br>&emsp; |  _ [abstract](https://ryantanyiwei.github.io/content/Presentations/ISDC23_abstract.txt){:target="_blank"} 
+<!---...--->
 <br>International System Dynamics Conference 2022 
 <br>&emsp; |  _Integrating resilience into Monitoring and Evaluation of climate and development practices in Hindu-Kush Himalaya_
 <br>&emsp; |  _ [paper](https://ryantanyiwei.github.io/content/Presentations/ISDC22_abs.pdf){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC22_slides.pdf){:target="_blank"}
 _ [supp-materials](https://ryantanyiwei.github.io/content/Presentations/ISDC22_supp.pdf){:target="_blank"} 
+<!---...--->
 <br>International System Dynamics Conference 2021
-<br>&emsp; |  _System dynamics across three scales in the Brahmaputra River Basin- Exploring a
-Himalayan social-hydrological system_
+<br>&emsp; |  _System dynamics across three scales in the Brahmaputra River Basin- Exploring a Himalayan social-hydrological system_
 <br>&emsp; |  _ [abstract](https://ryantanyiwei.github.io/content/Presentations/ISDC21_abstract.txt){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/ISDC21_slides.pdf){:target="_blank"} 
 _ [video](https://www.youtube.com/watch?v=AKvyyP2fV8U&ab_channel=RyanTanYiWei){:target="_blank"} 
 _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=670619080813173){:target="_blank"}
+<!---...--->
 <br>Opinion Piece on Water Consumption in Non-Domestic Sectors
 <br>&emsp; |  _Making the most out of every drop of Singapore's water_
 <br>&emsp; |  _ [op-ed](https://ryantanyiwei.github.io/content/Reports/oped.pdf){:target="_blank"} 
+<!---...--->
 <br>Evidence-based Design Presentation
 <br>&emsp; |  _Spatial Networks in Building Complexes_
 <br>&emsp; |  _ [slides](https://ryantanyiwei.github.io/content/Teaching/spatial_networks_architectural.pdf){:target="_blank"}
+<!---...--->
 <br>Evidence-based Design Presentation
 <br>&emsp; |  _Street Network Analysis for Planning and Policies_
 <br>&emsp; |  _ [slides](https://ryantanyiwei.github.io/content/Presentations/CLC-Network-Modelling.pdf){:target="_blank"}
 
 
-
 ### Selected Coursework - Reports, Essays and Analyses
 
-<!---Policy Reports--->
-<!---Academic Writing--->
-<!---Informal Pieces--->
-<!---Technical Writing--->
-Actor and strategy analysis of the global semiconductor industry 
-<br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
-<br>&emsp; |  _ [policy report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
-<br>Ethical analysis of the NORI's Environmental Impact Assessments for deep sea mining
-<br>&emsp; |  _Critique of the content and processes of an EIA_ 
-<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
+#### Quantitative Work - Simulation, Data Science
+<!---Simulations--->
+Decision Support for Managing Flood Risks in Gelderland's Ijssel river
+<br>&emsp; |  _Exploratory Modelling Approach within a broader political context _ 
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/DecisionSupport.pdf){:target="_blank"}
+ _ [repository](https://github.com/alex-dietz/model-based-decision-making){:target="_blank"}
 <br>Analysis of the student housing market in Amsterdam
 <br>&emsp; |  _System dynamics modelling of the student housing market_ 
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/Omo_Proposal.pdf){:target="_blank"}
+ _ [repository](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
+<br>Actor and strategy analysis of the global semiconductor industry 
+<br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
+<br>&emsp; |  _ [policy report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
+<br>Simulation of the Omo-Gibe River Basin
+<br>&emsp; |  _Proposal for a Multi-Objective Opimization Model_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
- _ [materials](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
+<!---Data Science--->
+<br>Accessibility study of The Hague 
+<br>&emsp; |  _Spatial data analysis involving clustering_ 
+<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
+
+#### Quantitative Work - Ethics, Governance, Systems Mapping
+<!---Qualitative Work--->
+<br>Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
+<br>&emsp; |  _Ethical analysis of trade-offs and stakeholder involvement processes_ 
+<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/EthicsOmo.pdf){:target="_blank"}
+<br>Ethics of the NORI's Environmental Impact Assessments for deep sea mining
+<br>&emsp; |  _ Ethical Analysis of the content and processes of an EIA_ 
+<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
 <br>Interview Article on Coastal Governance in Singapore
 <br>&emsp; |  _Assessment of the Singaporean multi-agency governance system_ 
 <br>&emsp; |  _ [new article](https://ryantanyiwei.github.io/InterviewCoast/){:target="_blank"}
 <br>Review of the Singapore-KL High Speed Rail
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
-<br>Literature review on equitable climate change adaptation processes
-<br>&emsp; |  _Analysis of structrual barriers in environmental governance_ 
-<br>&emsp; |  _ [literature review](https://ryantanyiwei.github.io/content/Reports/samplelitreview.pdf){:target="_blank"}
-<!---
-<br>Comparative case study of urban mobility in 5 cities
-<br>&emsp; |  _Spatial data analysis of city typologies and commuting behaviour_ 
-<br>&emsp; |  _ [report](https://ryantanyiwei.github.io/content/Reports/UrbanMobility.pdf){:target="_blank"} 
---->
 <br>Multi-actor analysis of a nursing shortage 
 <br>&emsp; |  _Qualitative techniques for a multi-actor system_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
-<br>Accessibility study of The Hague 
-<br>&emsp; |  _Spatial data analysis involving clustering_ 
-<br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 
 
 ### Past Teaching Content
