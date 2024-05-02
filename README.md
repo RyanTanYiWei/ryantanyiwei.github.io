@@ -82,7 +82,7 @@ Decision Support for Managing Flood Risks in Gelderland's Ijssel river
 <!---Qualitative Work--->
 Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
 <br>&emsp; |  _Ethical analysis of trade-offs and stakeholder involvement processes_ 
-<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/EthicsOmo.pdf){:target="_blank"}
+<br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics_Omo.pdf){:target="_blank"}
 <br>Ethics of the NORI's Environmental Impact Assessments for deep sea mining
 <br>&emsp; |  _Ethical Analysis of the content and processes of an EIA_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
