@@ -65,14 +65,15 @@ Decision Support for Managing Flood Risks in Gelderland's Ijssel river
  _ [repository](https://github.com/alex-dietz/model-based-decision-making){:target="_blank"}
 <br>Analysis of the student housing market in Amsterdam
 <br>&emsp; |  _System dynamics modelling of the student housing market_ 
-<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/Omo_Proposal.pdf){:target="_blank"}
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
  _ [repository](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
 <br>Actor and strategy analysis of the global semiconductor industry 
 <br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
 <br>&emsp; |  _ [policy report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
 <br>Simulation of the Omo-Gibe River Basin
 <br>&emsp; |  _Proposal for a Multi-Objective Opimization Model_ 
-<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
+<br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/Omo_Proposal.pdf){:target="_blank"}
+
 <!---Data Science--->
 <br>Accessibility study of The Hague 
 <br>&emsp; |  _Spatial data analysis involving clustering_ 
