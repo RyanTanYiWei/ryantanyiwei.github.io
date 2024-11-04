@@ -21,10 +21,10 @@ Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19
 
 ### Papers, Presentations and Articles
 <!---...--->
-Engineering and Policy Analysis Master's Thesis 
+Master's Thesis EPA 2024
 <br>&emsp; |  _Using Discourse Network Analysis to Study the Politics of Policy Implementation: The Environment and Planning Act in the Netherlands_
 <br>&emsp; |  _  [abstract](https://ryantanyiwei.github.io/content/Presentations/MSc_thesis.txt){:target="_blank"} 
-_ [slides](https://ryantanyiwei.github.io/content/Presentations/MSc_thesis.pdf){:target="_blank"}
+_ [thesis](https://ryantanyiwei.github.io/content/Presentations/MSc_thesis.pdf){:target="_blank"}
 <!---...--->
 <br>182nd Dies Natalis 2024
 <br>&emsp; |  _Mapping the system underlying inertia in the (storm)water transition in cities in the Netherlands - through a financing perspective_
@@ -65,30 +65,30 @@ _ [lkyspp](https://www.facebook.com/watch/live/?ref=watch_permalink&v=6706190808
 #### Quantitative Work - Simulation, Data Analysis
 <!---Simulations--->
 Decision Support for Managing Flood Risks in Gelderland's Ijssel river
-<br>&emsp; |  _Exploratory Modelling Approach within a broader political context_ 
+<br>&emsp; |  _Exploratory modelling approach within a broader political context_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/DecisionSupport.pdf){:target="_blank"}
  _ [repository](https://github.com/alex-dietz/model-based-decision-making){:target="_blank"}
-<br>Analysis of the student housing market in Amsterdam
+<br>Analysis of the Student Housing Market in Amsterdam
 <br>&emsp; |  _System dynamics modelling of the student housing market_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/SD.pdf){:target="_blank"}
  _ [repository](https://github.com/RyanTanYiWei/HousingSystemAMS){:target="_blank"}
-<br>Actor and strategy analysis of the global semiconductor industry 
-<br>&emsp; |  _Network analysis and game theory in the global supply chain_ 
+<br>Actor and Strategy Analysis of the Global Semiconductor Industry 
+<br>&emsp; |  _Network and game theory models of a global supply chain_ 
 <br>&emsp; |  _ [policy report](https://ryantanyiwei.github.io/content/Reports/Semiconductor.pdf){:target="_blank"} 
 <br>Simulation of the Omo-Gibe River Basin
 <br>&emsp; |  _Proposal for a Multi-Objective Opimization Model_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/Omo_Proposal.pdf){:target="_blank"}
-<br>Accessibility study of The Hague 
-<br>&emsp; |  _Spatial data analysis involving clustering_ 
+<br>Accessibility Analysis of The Hague 
+<br>&emsp; |  _Data analysis focused on spatial clustering techniques_ 
 <br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 
 #### Quantitative Work - Ethics, Governance, Systems Mapping
 <!---Qualitative Work--->
-<br>Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
-<br>&emsp; |  _Ethical analysis of trade-offs and stakeholder involvement processes_ 
+Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
+<br>&emsp; |  _Ethical analyses of trade-offs and stakeholder involvement processes_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics_Omo.pdf){:target="_blank"}
-<br>Ethics of the NORI's Environmental Impact Assessments for deep sea mining
-<br>&emsp; |  _Ethical Analysis of the content and processes of an EIA_ 
+<br>Ethics of the NORI's Environmental Impact Assessments for Deep Sea Mining
+<br>&emsp; |  _Ethical analyses of the content and processes of an EIA_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics.pdf){:target="_blank"}
 <br>Interview Article on Coastal Governance in Singapore
 <br>&emsp; |  _Assessment of the Singaporean multi-agency governance system_ 
@@ -96,7 +96,7 @@ Decision Support for Managing Flood Risks in Gelderland's Ijssel river
 <br>Review of the Singapore-KL High Speed Rail
 <br>&emsp; |  _Essay on political decision making and negotiation_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/PDM.pdf){:target="_blank"}
-<br>Multi-actor analysis of a nursing shortage 
+<br>Multi-actor Analysis of a Nursing Shortage 
 <br>&emsp; |  _Qualitative techniques for a multi-actor system_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/NursingShortage.pdf){:target="_blank"} 
 
@@ -131,8 +131,8 @@ System Dynamics<br>&emsp; | <i>Vensim</i><br>
 Networks<br>&emsp; | <i>SNA, igraph, Gephi</i><br>
 Spatial Analysis<br>&emsp; | <i>QGIS, DepthmapX</i><br>
 Programming Languages<br>&emsp; | <i>Python, R, C, Bash</i><br>
-Packages/Frameworks<br>&emsp; | <i>geopandas, pandas, mesa, numpy, sklearn, pytorch, networkx, ggplot2, dplyr, rvest, selenium, quanteda, stm, igraph, rdepthmap, sp, rgdal, shiny,  opencv, ROS, git</i><br>
+Packages/Frameworks<br>&emsp; | <i>ema_workbench, rDNA, igraph, geopandas, pandas, mesa, numpy, sklearn, pytorch, networkx, ggplot2, dplyr, rvest, selenium, quanteda, stm,  rdepthmap, sp, rgdal, rshiny, git</i><br>
 
 
 ### Other Things that Excite Me
-Moral Philosophy, Calligraphy (Italics), Pen Spinning, Dota2
+Photography, Philosophy, Calligraphy, Dota2
