@@ -4,24 +4,29 @@ Academic Email: RyanTanYiWei@student.tudelft.nl
 <br>Circulum Vitae: [Apr 2024](https://ryantanyiwei.github.io/content/Resume_Apr2024.pdf){:target="_blank"}
 
 ### Education
-M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Present<br>
+M.Sc Engineering and Policy Analysis; Delft University of Technology<br>&emsp; | Sep 22 - Aug 24<br>
 B.Eng Mechanical Engineering; National University of Singapore<br>&emsp; | Aug 18 - Jun 22<br>
 
 ### Bio
-With great power comes great responsibility; models possess the potential to improve our lives, yet their utilization demands careful consideration.
+Threading the line between evidence-based decision making and decision-based evidence making.
 
-### Research Assistantships
-Faculty of Technology, Policy and Management, Delft University of Technology (TU Delft)<br>&emsp; | Dec 22 - Present<br>
+### Research Experience
+International Institute for Applied Systems Analysis (IIASA) <br>&emsp; | Nov 24 - Present<br>
+Faculty of Technology, Policy and Management, Delft University of Technology (TU Delft)<br>&emsp; | Dec 22 - Feb 24<br>
+(informal collaborations with) Space Syntax Researchers<br>&emsp; | Aug 21 - Feb 22<br>
 International Centre for Integrated Mountain Development (ICIMOD)<br>&emsp; | Jan 21 - Aug 22<br>
-Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19 - Aug 22<br>
-(in collaboration with) Space Syntax (UCL)<br>&emsp; | Aug 21 - Feb 22<br>
-Centre for Liveable Cities, Ministry of National Development (MND)<br>&emsp; | Jul 20 - Jan 21<br>
+Centre for Liveable Cities (CLC)<br>&emsp; | Jul 20 - Jan 21<br>
 Institute of Water Policy, Lee Kuan Yew School of Public Policy (LKYSPP)<br>&emsp; | May 20 - Nov 20<br>
-
+Residential College 4, National University of Singapore (NUS)<br>&emsp; | Nov 19 - Aug 22<br>
 
 ### Papers, Presentations and Articles
 <!---...--->
-182nd Dies Natalis 2024
+Engineering and Policy Analysis Master's Thesis 
+<br>&emsp; |  _Using Discourse Network Analysis to Study the Politics of Policy Implementation: The Environment and Planning Act in the Netherlands_
+<br>&emsp; |  _  [abstract](https://ryantanyiwei.github.io/content/Presentations/MSc_thesis.txt){:target="_blank"} 
+_ [slides](https://ryantanyiwei.github.io/content/Presentations/MSc_thesis.pdf){:target="_blank"}
+<!---...--->
+<br>182nd Dies Natalis 2024
 <br>&emsp; |  _Mapping the system underlying inertia in the (storm)water transition in cities in the Netherlands - through a financing perspective_
 <br>&emsp; |  _  [abstract](https://ryantanyiwei.github.io/content/Presentations/DN_abstract.txt){:target="_blank"} 
 _ [slides](https://ryantanyiwei.github.io/content/Presentations/DN_slides.pdf){:target="_blank"}
@@ -73,15 +78,13 @@ Decision Support for Managing Flood Risks in Gelderland's Ijssel river
 <br>Simulation of the Omo-Gibe River Basin
 <br>&emsp; |  _Proposal for a Multi-Objective Opimization Model_ 
 <br>&emsp; |  _ [academic report](https://ryantanyiwei.github.io/content/Reports/Omo_Proposal.pdf){:target="_blank"}
-
-<!---Data Science--->
 <br>Accessibility study of The Hague 
 <br>&emsp; |  _Spatial data analysis involving clustering_ 
 <br>&emsp; |  _ [notebook](https://ryantanyiwei.github.io/content/Reports/HagueAccessibility.html){:target="_blank"} 
 
 #### Quantitative Work - Ethics, Governance, Systems Mapping
 <!---Qualitative Work--->
-Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
+<br>Ethics of Ethiopia's Gibe III Dam Development on the Omo-Gibe Basin
 <br>&emsp; |  _Ethical analysis of trade-offs and stakeholder involvement processes_ 
 <br>&emsp; |  _ [academic essay](https://ryantanyiwei.github.io/content/Reports/Ethics_Omo.pdf){:target="_blank"}
 <br>Ethics of the NORI's Environmental Impact Assessments for deep sea mining
