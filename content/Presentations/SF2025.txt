@@ -1,0 +1,20 @@
+Abstract
+FeliX ISE: An Interactive Simulation Environment for Exploring Behaviour Change in the Food System through an Integrated Assessment Model
+Ryan Yi Wei Tan (1), Filippos Marntirosian (2), Deepthi Swamy (1,3), Nikolaos Tantaroudas (4), Sibel Eker (1,3)
+1 International Institute for Applied Systems Analysis, Laxenburg, Austria
+2 National Technical University of Athens, Zografou, Greece
+3 Radboud University Nijmegen, Nijmegen, Netherlands 
+4 Institute of Communication and Computer Systems, Zografou, Greece
+
+While Integrated Assessment Models (IAMs) play a key role in informing climate policy, their technical complexity often limits accessibility for non-experts, including policymakers, civil society actors, and local practitioners. This limitation is especially significant today, as effective climate action increasingly depends on inclusive decision-making processes and transformations across technological, economic, and socio-cultural domains.
+
+To address this accessibility gap, our work aims to enhance participatory scenario development through an Interactive Simulation Environment (ISE)—a tool that packages a complex IAM into a user-friendly and interactive interface. This is part of several tool-development efforts to mainstream IAMs for broader use, but this tool is distinct in its focus on behavioral change scenarios in the food system—a domain with a significant environmental footprint and considerable potential for demand-side mitigation through changes in diet, food loss and waste. 
+
+At the core of the ISE is the FeliX model, a system dynamics-based Integrated Assessment Model that explicitly captures interlinkages between economic, environmental, and social systems. In this context, the model accounts for key behavioural feedbacks—such as the influence of social norms and perceived self-efficacy—which shape the extent to which food-related transformations occur.
+
+The tool’s interface is designed to support intuitive and interactive exploration of a diverse range of scenarios. Users can experiment with food-related scenario inputs related to dietary change and food waste and loss, and observe in real time their implications across multiple system outputs—including land use, climate, fertilizer use, biodiversity, and water. A key feature is the ability to compare multiple scenarios side-by-side using shared graphical outputs, facilitating both reflection and dialogue around possible futures.
+
+Initial lessons from an internal stakeholder workshop revealed insights about the interface between expert-driven models and user expectations. A notable tension emerged around the differing scenario spaces of interest—driven largely by the system-scale, feedback-oriented logic embedded in the FeliX model (e.g., behaviour diffusion through social norms) and the individual-scale mental models of users, who understandably seek more direct, causal narratives (e.g., "If I stop eating meat, what changes?"). This highlights the importance of thoughtful framing and communication that can bridge the differing scales, allowing for more meaningful and constructive engagement.
+
+We can showcase a preliminary but functional version of the tool at the Scenarios Forum to illustrate its potential in supporting inclusive scenario development processes. We aim to spark broader discussion on how to design interactive tools that not only simplify access but also enhance co-creation, engagement, and trust with stakeholders. In doing so, we hope to contribute to the growing progress of methodological innovation in participatory scenario development for greater robustness and inclusivity.
+
