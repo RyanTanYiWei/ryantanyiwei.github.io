@@ -46,7 +46,7 @@
           </div>
         </a>
 
-        <a class="proj-card" href="https://meetingorganizer.copernicus.org/WBF2026/WBF2026-446.html" target="_blank">
+        <div class="proj-card" data-gallery="wbf2026" role="button" tabindex="0" aria-label="Open WBF 2026 image gallery">
           <div class="cover cover-mid">
             <img src="assets/images/cards/wbf.png" alt="World Biodiversity Forum preview image">
             <span class="cover-label">WBF2026 &middot; Biodiversity</span>
@@ -54,25 +54,156 @@
           <div class="card-info">
             <h3>Exploration of Structural Uncertainties in Food Systems</h3>
             <p>Exploratory modelling of feedback loops across social and environmental food systems using a lower-resolution model, including uncertain interactions often excluded from scenario analysis (e.g. ecosystem service feedbacks). Contributes to discussions on structural uncertainty and the implications of capturing more complete system representations in biodiversity and sustainability scenarios.</p>
-            <span class="card-link">Read Abstract &rarr;</span>
+            <span class="card-link">View Gallery &rarr;</span>
           </div>
-        </a>
+        </div>
 
-        <a class="proj-card" href="https://meetingorganizer.copernicus.org/EGU26/EGU26-20651.html" target="_blank">
+        <div class="proj-card" data-gallery="egu26" role="button" tabindex="0" aria-label="Open EGU 2026 image gallery">
           <div class="cover cover-light">
-            <img src="assets/images/cards/tippingcascades.png" alt="Tipping Cascades preview image">
+            <img src="assets/images/gallery/egu26/EGU_trajectories.png" alt="EGU 2026 power system tipping cascades preview">
             <span class="cover-label">EGU26 &middot; Energy</span>
           </div>
           <div class="card-info">
             <h3>Positive tipping cascades in the power system driven by adoption of grid-scale batteries</h3>
             <p>Global sensitivity analyses and scenario discovery were used to explore tipping dynamics in power-system transitions driven by grid-scale battery adoption.</p>
-            <span class="card-link">Read Abstract &rarr;</span>
+            <span class="card-link">View Gallery &rarr;</span>
           </div>
-        </a>
+        </div>
 
       </div>
     </div>
   </main>
+
+  <!-- ─── Gallery modal ─── -->
+  <div class="gallery-overlay" id="galleryOverlay">
+    <div class="gallery-backdrop" id="galleryBackdrop"></div>
+    <div class="gallery-panel" role="dialog" aria-modal="true" aria-labelledby="galleryTitle">
+      <header class="gallery-header">
+        <span class="gallery-title" id="galleryTitle"></span>
+        <a class="gallery-abstract" id="galleryAbstract" href="" target="_blank" rel="noopener noreferrer">Abstract &nearr;</a>
+        <button class="gallery-close" id="galleryClose" aria-label="Close gallery">&times;</button>
+      </header>
+      <div class="gallery-stage">
+        <button class="gallery-arrow gallery-prev" id="galleryPrev" aria-label="Previous image">&#8592;</button>
+        <div class="gallery-img-wrap">
+          <img class="gallery-img" id="galleryImg" src="" alt="">
+        </div>
+        <button class="gallery-arrow gallery-next" id="galleryNext" aria-label="Next image">&#8594;</button>
+      </div>
+      <p class="gallery-caption" id="galleryCaption"></p>
+      <div class="gallery-footer">
+        <div class="gallery-dots" id="galleryDots"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const galleries = {
+      wbf2026: {
+        title: 'WBF 2026 — Structural Uncertainties in Food Systems',
+        abstract: 'https://meetingorganizer.copernicus.org/WBF2026/WBF2026-446.html',
+        slides: [
+          {
+            src: 'assets/images/gallery/wbf2026/wbf_uncertainty.png',
+            caption: 'Uncertainty envelope across projected food system outcomes when structural uncertainties (e.g. yield and ecosystem feedbacks) are explicitly modelled.'
+          },
+          {
+            src: 'assets/images/gallery/wbf2026/wbf_sobol_ST.png',
+            caption: 'Total-order Sobol indices (Sₜ) highlighting dominant feedback interactions with respect to different outcome of interests. The importance of these feedbacks also changes over time - where production intensification processes (e.g. fertiliser and water feedbacks) may dominate the near-term, but environmental constraints (e.g. climate feedbacks) are key in the long term.'
+          },
+          {
+            src: 'assets/images/gallery/wbf2026/wbf_sobol_Full.png',
+            caption: 'Full first-order (S₁) and total-order (Sₜ) Sobol sensitivity indices across all uncertain feedback interactions in the food system (simulated by the FeliX model).'
+          }
+        ]
+      },
+      egu26: {
+        title: 'EGU 2026 — Positive Tipping Cascades in the Power System',
+        abstract: 'https://meetingorganizer.copernicus.org/EGU26/EGU26-20651.html',
+        slides: [
+          {
+            src: 'assets/images/gallery/egu26/EGU_trajectories.png',
+            caption: 'Power system transition trajectories showing positive tipping cascades triggered by grid-scale battery adoption, from global sensitivity and scenario discovery analysis.'
+          },
+          {
+            src: 'assets/images/gallery/egu26/EGU_sobol.png',
+            caption: 'Sobol sensitivity analysis (first-order (S₁) and total-order (Sₜ)) identifying the dominant drivers of tipping-point onset in the power system transition model.'
+          },
+          {
+            src: 'assets/images/gallery/egu26/EGU_sobol2.png',
+            caption: 'Sobol sensitivity analysis (second-order (S₂)) identifying the dominant drivers of tipping-point onset in the power system transition model.'
+          }
+        ]
+      }
+    };
+
+    let currentGallery = null;
+    let currentIdx = 0;
+
+    const overlay   = document.getElementById('galleryOverlay');
+    const imgEl     = document.getElementById('galleryImg');
+    const captionEl = document.getElementById('galleryCaption');
+    const titleEl   = document.getElementById('galleryTitle');
+    const dotsEl    = document.getElementById('galleryDots');
+    const abstractEl = document.getElementById('galleryAbstract');
+
+    function openGallery(key) {
+      currentGallery = galleries[key];
+      currentIdx = 0;
+      titleEl.textContent = currentGallery.title;
+      abstractEl.href = currentGallery.abstract;
+      renderSlide();
+      overlay.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+      document.getElementById('galleryClose').focus();
+    }
+
+    function closeGallery() {
+      overlay.classList.remove('is-open');
+      document.body.style.overflow = '';
+      currentGallery = null;
+    }
+
+    function renderSlide() {
+      const slide = currentGallery.slides[currentIdx];
+      imgEl.src = slide.src;
+      imgEl.alt = slide.caption;
+      captionEl.textContent = slide.caption;
+      dotsEl.innerHTML = '';
+      currentGallery.slides.forEach((_, i) => {
+        const dot = document.createElement('button');
+        dot.className = 'gallery-dot' + (i === currentIdx ? ' gallery-dot--active' : '');
+        dot.setAttribute('aria-label', 'Go to slide ' + (i + 1));
+        dot.addEventListener('click', () => { currentIdx = i; renderSlide(); });
+        dotsEl.appendChild(dot);
+      });
+      document.getElementById('galleryPrev').disabled = currentIdx === 0;
+      document.getElementById('galleryNext').disabled = currentIdx === currentGallery.slides.length - 1;
+    }
+
+    document.querySelectorAll('.proj-card[data-gallery]').forEach(card => {
+      card.addEventListener('click', () => openGallery(card.dataset.gallery));
+      card.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openGallery(card.dataset.gallery); }
+      });
+    });
+
+    document.getElementById('galleryClose').addEventListener('click', closeGallery);
+    document.getElementById('galleryBackdrop').addEventListener('click', closeGallery);
+    document.getElementById('galleryPrev').addEventListener('click', () => {
+      if (currentIdx > 0) { currentIdx--; renderSlide(); }
+    });
+    document.getElementById('galleryNext').addEventListener('click', () => {
+      if (currentIdx < currentGallery.slides.length - 1) { currentIdx++; renderSlide(); }
+    });
+
+    document.addEventListener('keydown', e => {
+      if (!overlay.classList.contains('is-open')) return;
+      if (e.key === 'Escape') closeGallery();
+      if (e.key === 'ArrowLeft'  && currentIdx > 0) { currentIdx--; renderSlide(); }
+      if (e.key === 'ArrowRight' && currentIdx < currentGallery.slides.length - 1) { currentIdx++; renderSlide(); }
+    });
+  </script>
 
   <footer class="site-footer wrap">
     <small>Ryan Yi Wei Tan</small>
